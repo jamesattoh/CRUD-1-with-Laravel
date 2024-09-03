@@ -15,7 +15,7 @@
                     </div>
 
                     <div>
-                        <strong>{{ $job['title'] }} :</strong> Pays {{ $job['salary'] }} a month.
+                        <strong class="text-laracasts">{{ $job['title'] }} :</strong> Pays {{ $job['salary'] }} a month.
                     </div>
                 </a>
 
